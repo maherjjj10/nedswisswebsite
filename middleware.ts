@@ -1,11 +1,8 @@
-import createMiddleware from 'next-intl/middleware';
-
-export default createMiddleware({
-  locales: ['de', 'en', 'fr'],
-  defaultLocale: 'de',
-  localePrefix: 'always'
-});
-
-export const config = {
-  matcher: ['/((?!_next|.*\\..*).*)']
-};
+import type { NextRequest } from "next/server";
+import { NextResponse } from "next/server";
+export function middleware(_: NextRequest) {
+  const isProd = process.env.VERCEL_ENV === "production";
+  const res = NextResponse.next();
+  if (!isProd) res.headers.set("X-Robots-Tag", "noindex, nofollow");
+  return res;
+}
