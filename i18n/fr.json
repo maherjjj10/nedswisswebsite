@@ -1,0 +1,1144 @@
+{
+  "SplashScreen": {
+    "tagline": "Excellence numérique, Précision suisse",
+    "loading": "Chargement"
+  },
+  "contact": {
+    "success": {
+      "title": "Nous garantissons une réponse dans les 24 heures.",
+      "message": "Notre équipe est toujours disponible pour répondre à vos questions et vous aider à atteindre vos objectifs. N'hésitez pas à nous contacter à tout moment."
+    }
+  },
+  "Navigation": {
+    "home": "Accueil",
+    "blogs": "Blogs",
+    "about": "À Propos",
+    "ourStory": "Notre Histoire",
+    "team": "Équipe",
+    "valuesPhilosophy": "Valeurs & Philosophie",
+    "ourProcess": "Notre Processus",
+    "services": "Services",
+    "graphicDesign": "Design Graphique",
+    "webDevelopment": "Développement Web",
+    "socialMediaManagement": "Gestion des Médias Sociaux",
+    "seoServices": "Services SEO",
+    "softwareSolutions": "Solutions Logicielles",
+    "advertisingSolutions": "Solutions Publicitaires",
+    "portfolio": "Portfolio",
+    "caseStudies": "Études de Cas",
+    "projectGallery": "Galerie de Projets",
+    "blog": "Blog",
+    "contact": "Contact",
+    "letsTalk": "PARLONS-EN",
+    "language": "Langue",
+    "careers": "Carrières",
+    "clientPortal": "Portail Client",
+    "privacyPolicy": "Politique de Confidentialité",
+    "termsOfService": "Conditions Générales d'Utilisation"
+  },
+  "HomePage": {
+    "processHeader": {
+      "title": "Notre",
+      "titleHighlight": "Processus",
+      "subtitle": "Nous suivons un processus précis pour fournir des résultats exceptionnels à nos clients."
+    },
+    "partnersHeaders": {
+      "title": "Nos Partenaires",
+      "titleHighlight": "de confiance"
+    },
+    "servicesHeader": {
+      "title": "Services numériques qui génèrent des ",
+      "titleHighlight": "Résultats"
+    },
+    "whyUs": {
+      "title": "Pourquoi nous ?",
+      "quickDelivery": "Nous livrons les projets rapidement – sans compromis sur la qualité.",
+      "internationalTeam": "Une équipe internationale et professionnelle travaille efficacement depuis des lieux éloignés.",
+      "flexiblePricing": "Tarification flexible – adaptée à l'étendue de chaque projet.",
+      "qualityAssurance": "Nous utilisons notre propre plateforme de travail interne",
+      "cta": "Contactez-nous",
+      "platform": {
+        "name": "NED Swiss Software",
+        "intro": "NED Swiss Software est une plateforme qui vous permet de gérer vos projets et tâches efficacement."
+      }
+    },
+    "meta": {
+      "title": "NED Swiss | Excellence numérique, Précision suisse",
+      "description": "NED Swiss est une agence numérique offrant des services exceptionnels de développement web, de design et de marketing numérique avec précision et excellence suisses."
+    },
+    "hero": {
+      "tagline": "Excellence numérique, Précision suisse",
+      "headline": "Transformer les idées en succès numérique",
+      "subtitle": "Nous créons des expériences numériques exceptionnelles qui génèrent des résultats pour les entreprises tournées vers l'avenir",
+      "cta": "Démarrer votre projet"
+    },
+    "services": {
+      "title": "Nos Services",
+      "subtitle": "Solutions numériques complètes adaptées à vos besoins",
+      "graphicDesign": {
+        "title": "Design Graphique",
+        "description": "Identité visuelle qui marque les esprits"
+      },
+      "webDevelopment": {
+        "title": "Développement Web",
+        "description": "Sites web et applications web personnalisés"
+      },
+      "socialMediaManagement": {
+        "title": "Gestion des Médias Sociaux",
+        "description": "Présence et stratégie sociale engageantes"
+      },
+      "seoServices": {
+        "title": "Services SEO",
+        "description": "Améliorer la visibilité et le trafic organique"
+      },
+      "softwareSolutions": {
+        "title": "Solutions Logicielles",
+        "description": "Logiciels personnalisés pour les besoins de l'entreprise"
+      },
+      "advertisingSolutions": {
+        "title": "Solutions Publicitaires",
+        "description": "Campagnes stratégiques qui convertissent"
+      }
+    },
+    "about": {
+      "title": "À Propos de NED Swiss",
+      "mission": "Accompagner les entreprises grâce à des solutions numériques innovantes",
+      "description": "Nous combinons la précision suisse avec l'innovation numérique pour offrir des résultats exceptionnels à nos clients.",
+      "cta": "En savoir plus sur nous"
+    },
+    "socialProof": {
+      "title": "Témoignages Clients",
+      "subtitle": "NED Swiss à travers les yeux de nos clients – Découvrez comment nous avons fait la différence dans leurs projets.",
+      "clientsRating": "Note des clients",
+      "clientsSubtitle": "Sur le marché européen",
+      "projectsCompleted": "Projets réalisés",
+      "projectsSubtitle": "Sur le marché européen",
+      "deliveringResults": "Résultats livrés",
+      "deliveringResultsSubtitle": "Sur le marché européen",
+      "testimonials": {
+        "title": "Ce que disent nos clients",
+        "items": [
+          {
+            "quote": "NED Swiss a transformé notre présence numérique avec précision et créativité. Fortement recommandé !",
+            "author": "Jane Smith",
+            "position": "CEO, TechCorp",
+            "img": "/client-1.png"
+          },
+          {
+            "quote": "Travailler avec NED Swiss a changé la donne pour notre marque. Ils ont livré au-delà de nos attentes.",
+            "author": "John Davis",
+            "position": "Directeur Marketing, GrowthBrand",
+            "img": "/client-2.png"
+          },
+          {
+            "quote": "L'attention aux détails et l'approche stratégique distinguent NED Swiss des autres agences.",
+            "author": "Anna Miller",
+            "position": "Fondatrice, StartupSuccess",
+            "img": "/client-3.png"
+          }
+        ]
+      }
+    },
+    "cta": {
+      "title": {
+        "prefix": "Prêt à démarrer votre",
+        "highlight": "projet",
+        "suffix": " ?"
+      },
+      "subtitle": "Discutons de votre vision et créons ensemble quelque chose d'extraordinaire. Contactez-nous dès aujourd'hui pour une consultation et un devis gratuits.",
+      "contact": {
+        "address": {
+          "title": "Adresse",
+          "street": "Dörfliweg 3",
+          "city": "3098 Köniz, Switzerland"
+        },
+        "phone": {
+          "title": "Téléphone",
+          "number": "+41 78 260 14 98"
+        },
+        "email": {
+          "title": "E-mail",
+          "address": "Info@ned-swiss.ch"
+        },
+          "hours": {
+            "title": "Horaires d'ouverture",
+            "monday": "Lundi : 9h00 - 18h00",
+            "tuesday": "Mardi : 9h00 - 18h00",
+            "wednesday": "Mercredi : 9h00 - 18h00",
+            "thursday": "Jeudi : 9h00 - 18h00",
+            "friday": "Vendredi : 9h00 - 19h00",
+            "saturday": "Samedi : 9h00 - 12h00",
+            "sunday": "Dimanche : Fermé"
+          }
+      },
+      "form": {
+        "title": "Envoyer un message",
+        "fields": {
+          "firstName": "Prénom *",
+          "lastName": "Nom *",
+          "email": "E-mail *",
+          "phone": "Téléphone *",
+          "company": "Entreprise *",
+          "service": "Service *",
+          "message": "Message *"
+        },
+        "placeholders": {
+          "firstName": "Votre prénom",
+          "lastName": "Votre nom",
+          "email": "Votre e-mail",
+          "phone": "Votre téléphone",
+          "company": "Votre entreprise",
+          "service": "Service nécessaire",
+          "message": "Votre message"
+        },
+        "button": {
+          "send": "Envoyer un message",
+          "sending": "Envoi..."
+        },
+        "success": {
+          "title": "Merci pour votre message !",
+          "message": "Nous vous répondrons dans les 24 heures."
+        },
+        "privacy": {
+          "and": "et",
+          "privacyPolicy": "Politique de Confidentialité",
+          "termsOfService": "Conditions Générales d'Utilisation",
+          "text": "En soumettant ce formulaire, vous acceptez notre Politique de Confidentialité et nos Conditions Générales d'Utilisation.",
+          "response": "Nous vous répondrons dans les 24 heures ouvrables."
+        },
+        "services": {
+          "graphicDesign": "Design Graphique",
+          "printing": "Impression",
+          "webDevelopment": "Développement Web",
+          "socialMedia": "Médias Sociaux",
+          "3dInstallations": "Installations 3D",
+          "seo": "SEO",
+          "software": "Solutions Logicielles",
+          "advertising": "Solutions Publicitaires"
+        }
+      }
+    },
+    "process": {
+      "description": "Nous suivons un processus précis pour fournir des résultats exceptionnels à nos clients.",
+      "title": "Notre Processus",
+      "subtitle": "Nous suivons un processus précis pour fournir des résultats exceptionnels à nos clients.",
+      "step1": {
+        "title": "Découverte",
+        "description": "Nous commençons par comprendre votre entreprise et vos objectifs."
+      },
+      "step2": {
+        "title": "Stratégie",
+        "description": "Nous développons une stratégie sur mesure pour atteindre vos objectifs."
+      },
+      "step3": {
+        "title": "Design",
+        "description": "Nous créons un design visuellement époustouflant et convivial."
+      },
+      "step4": {
+        "title": "Développement",
+        "description": "Nous développons une stratégie sur mesure pour atteindre vos objectifs."
+      }
+    }
+  },
+  "HeroSection": {
+    "mainText": "DU CONCEPT À LA RÉALITÉ PAR",
+    "subtitle": "Agence Marketing",
+    "cta": "Démarrer votre projet",
+    "services": {
+      "graphicDesign": "Design Graphique",
+      "printing": "Impression",
+      "webDevelopment": "Développement Web",
+      "socialMedia": "Médias Sociaux",
+      "3dInstallations": "Installations 3D",
+      "paidAds": "Publicité Payante",
+      "seo": "SEO"
+    },
+    "servicesScrollStack": {
+      "title": "Services numériques qui génèrent des résultats",
+      "subtitle": "Solutions numériques complètes adaptées aux entreprises suisses. Du design créatif au développement technique, nous gérons tout avec précision et excellence."
+    }
+  },
+  "Projects": {
+    "title": "Nos",
+    "titleHighlight": "Projets",
+    "categories": {
+      "printing": "Service d'impression",
+      "graphic": "Design Graphique",
+      "web": "Développement Web",
+      "social": "Gestion des Médias Sociaux",
+      "digital": "Marketing Digital",
+      "software": "Solutions logicielles internes"
+    },
+    "exploreNow": "Explorer maintenant"
+  },
+  "ServicesData": {
+    "services": {
+      "graphicDesignPrinting": {
+        "title": "Design Graphique & Impression",
+        "subtitle": "Solutions d'identité visuelle complètes, des logos à l'impression grand format et aux enseignes lumineuses.",
+        "services": [
+          "Design de Logo & Identité de Marque",
+          "Cartes de Visite & Brochures",
+          "Impression Numérique & Offset"
+        ],
+        "buttonText": "Concevoir Demain Aujourd'hui"
+      },
+      "webDevelopment": {
+        "title": "Développement Web",
+        "subtitle": "Notre équipe de développement web construit des sites web et des applications réactifs et performants qui offrent des expériences utilisateur exceptionnelles sur tous les appareils et plateformes.",
+        "services": [
+          "Design Web Réactif",
+          "Développement Full-Stack",
+          "Solutions E-commerce",
+          "Applications Web Progressives",
+          "Intégration API"
+        ],
+        "buttonText": "Construisez votre vision"
+      },
+      "socialMediaMarketing": {
+        "title": "Médias Sociaux & Marketing Digital",
+        "subtitle": "Services complets de stratégie de médias sociaux, de création de contenu et de gestion de communauté.",
+        "services": [
+          "Configuration de Profil & Branding",
+          "Planification & Programmation de Contenu",
+          "Designs de Posts & Stories Personnalisés"
+        ],
+        "buttonText": "Du concept au succès"
+      },
+      "digitalOffsetPrinting": {
+        "title": "Impression Numérique & Offset",
+        "subtitle": "Impression numérique et offset de haute qualité pour tous vos supports marketing et besoins commerciaux.",
+        "services": [
+          "Cartes de Visite",
+          "Flyers & Matériel Promotionnel",
+          "Impressions Intérieures & Extérieures (Logos muraux, Bannières)"
+        ],
+        "buttonText": "Brillons ensemble"
+      },
+      "illuminatedSigns3d": {
+        "title": "Enseignes lumineuses & Installations 3D",
+        "subtitle": "Enseignes lumineuses professionnelles et installations 3D pour une visibilité maximale de la marque.",
+        "services": [
+          "Lettres LED (Leuchtbeschriftungen)",
+          "Caissons lumineux (Leuchtkasten)",
+          "Enseignes de magasin"
+        ],
+        "buttonText": "Brillons ensemble"
+      },
+      "paidAds": {
+        "title": "Publicité Payante (Plateformes Google & Meta)",
+        "subtitle": "Campagnes publicitaires ciblées qui génèrent de vrais résultats",
+        "services": [
+          "Google Ads (Recherche, Display, YouTube)",
+          "Facebook & Instagram Ads",
+          "Ciblage Avancé"
+        ],
+        "buttonText": "Votre succès, notre mission"
+      },
+      "seo": {
+        "title": "Optimisation pour les Moteurs de Recherche (SEO)",
+        "subtitle": "Services SEO complets et stratégies de marketing numérique pour booster votre présence en ligne.",
+        "services": [
+          "Articles de blog longs et analytiques",
+          "Optimisation SEO On-page",
+          "Rapports SEO techniques & de performance"
+        ],
+        "buttonText": "Créer des expériences durables"
+      }
+    },
+    "processSteps": {
+      "consultation": {
+        "number": "01",
+        "title": "Consultation",
+        "description": "Identification des objectifs du client, analyse de la position de la marque et proposition de stratégies sur mesure basées sur une étude de marché approfondie."
+      },
+      "strategyPlanning": {
+        "number": "02",
+        "title": "Stratégie",
+        "description": "Développement de plans personnalisés qui s'alignent sur les objectifs du client et les tendances du marché pour atteindre une croissance durable."
+      },
+      "designDevelopment": {
+        "number": "03",
+        "title": "Exécution",
+        "description": "Mise en œuvre de solutions créatives avec précision et garantie que les objectifs du client sont atteints par une exécution détaillée."
+      },
+      "testingOptimization": {
+        "number": "04",
+        "title": "Succès",
+        "description": "Mesure des indicateurs de performance et optimisation des stratégies pour une croissance durable."
+      }
+    },
+    "detailedServices": {
+      "consultation": {
+        "title": "Consultation",
+        "description": "Nous commençons par définir les objectifs du client, analyser la position sur le marché et identifier les opportunités de croissance. Ensuite, nous élaborons des stratégies sur mesure pour accroître la visibilité et l'identité de la marque, démontrant comment notre expertise offre des résultats mesurables et un succès durable.",
+        "items": [
+          {
+            "title": "Excellence Next.js",
+            "description": "(App Router, SSR/SSG, API Routes, Server Components)"
+          },
+          {
+            "title": "Maîtrise de React",
+            "description": "(TypeScript, Hooks personnalisés, Gestion d'état, Performance)"
+          },
+          {
+            "title": "Optimisation des performances",
+            "description": "(Core Web Vitals, Optimisation d'images, Analyse de bundle)"
+          }
+        ]
+      },
+      "strategy": {
+        "title": "Stratégie",
+        "description": "Nous créons des plans personnalisés, basés sur les données, qui s'alignent sur les objectifs des clients, répondent aux tendances du marché et génèrent un impact immédiat ainsi qu'une croissance à long terme.",
+        "items": [
+          {
+            "title": "Systèmes de Design",
+            "description": "(Bibliothèques de composants, Figma to Code, Cohérence de marque)"
+          },
+          {
+            "title": "Expérience Utilisateur",
+            "description": "(Wireframing, Prototypage, Tests utilisateur, Optimisation des conversions)"
+          },
+          {
+            "title": "Design Réactif",
+            "description": "(Mobile-First, Multi-navigateurs, Conformité à l'accessibilité)"
+          }
+        ]
+      },
+      "execution": {
+        "title": "Exécution",
+        "description": "Nous livrons des solutions innovantes et sur mesure qui génèrent un impact mesurable et construisent des partenariats durables basés sur la confiance et la collaboration.",
+        "items": [
+          {
+            "title": "Composants Serveur",
+            "description": "(React Server Components, Streaming, Récupération de données)"
+          },
+          {
+            "title": "Gestion d'état",
+            "description": "(Zustand, Redux Toolkit, React Query, Context API)"
+          },
+          {
+            "title": "Optimisation de la construction",
+            "description": "(Webpack, Vite, Code Splitting, Tree Shaking)"
+          }
+        ]
+      },
+      "success": {
+        "title": "Succès",
+        "description": "Nous transformons les stratégies en actions grâce à une exécution efficace, en offrant des résultats mesurables qui favorisent le progrès et le succès durable.",
+        "items": [
+          {
+            "title": "Bibliothèques d'Animation",
+            "description": "(GSAP, Framer Motion, React Spring, Animations CSS)"
+          },
+          {
+            "title": "Graphiques Web 3D",
+            "description": "(Three.js, React Three Fiber, WebGL, Modèles 3D)"
+          },
+          {
+            "title": "Micro-Interactions",
+            "description": "(Effets de survol, États de chargement, Design de transition)"
+          }
+        ]
+      }
+    }
+  },
+  "AboutPage": {
+    "readyToWorkTogether": "Prêt à collaborer ?",
+    "letsCreateSomethingAmazing": "Créons quelque chose d'incroyable pour votre entreprise.",
+    "startYourProject": "Démarrer votre projet",
+    "discoverVision": {
+      "title": {
+        "part1": "Découvrez la vision derrière"
+      },
+      "story": {
+        "title": "Notre Histoire",
+        "paragraph1": "NEDSWISS aide les entreprises à travers l'Europe à se développer en combinant créativité et technologie pour bâtir une forte présence numérique.",
+        "paragraph2": "Notre équipe expérimentée propose des solutions de design, de développement et de marketing qui sont esthétiques et qui donnent de vrais résultats.",
+        "paragraph3": "Nous avons accompagné plus de 50 clients, des startups aux grandes entreprises, dans la transformation de leur présence numérique et la réussite de leurs objectifs."
+      },
+      "whyChoose": {
+        "title": "Pourquoi nous choisir ?",
+        "item1": "Équipe créative primée",
+        "item2": "Historique de succès prouvé",
+        "item3": "Gestion de compte dédiée",
+        "item4": "Délais d'exécution rapides"
+      }
+    },
+    "cards": {
+      "vision": {
+        "title": "Vision",
+        "description": "Être l'agence numérique leader qui transforme les entreprises par un design innovant et une pensée stratégique."
+      },
+      "mission": {
+        "title": "Mission",
+        "description": "Offrir des expériences numériques exceptionnelles qui stimulent la croissance et créent une valeur durable pour nos clients."
+      },
+      "values": {
+        "title": "Valeurs",
+        "description": "Créativité, intégrité, excellence et succès client sont au cœur de tout ce que nous faisons."
+      }
+    },
+    "blogInsights": {
+      "title": {
+        "prefix": "Plongez dans",
+        "highlight": "Nos Blogs",
+        "suffix": " pour des informations pertinentes"
+      },
+      "subtitle": "Explorez nos dernières analyses, les tendances de l'industrie et des conseils d'experts pour rester à la pointe du paysage numérique",
+      "category": "Catégorie",
+      "date": "Date",
+      "discoverButton": "Découvrir les blogs"
+    }
+  },
+  "BlogHero": {
+    "title": {
+      "prefix": "Votre voyage commence",
+      "highlight": "ici"
+    },
+    "subtitle": "Découvrez des idées, des tendances et des histoires qui inspirent l'innovation et stimulent la transformation numérique.",
+    "cta": {
+      "explore": "Explorer les articles",
+      "categories": "Parcourir les catégories"
+    },
+    "scrollIndicator": "Faire défiler pour explorer"
+  },
+  "BlogGrid": {
+    "title": "Derniers aperçus",
+    "subtitle": "Restez informé des dernières tendances, analyses et histoires de nos experts numériques.",
+    "categories": {
+      "all": "Tout"
+    },
+    "error": {
+      "title": "Impossible de charger les blogs",
+      "message": "Une erreur s'est produite lors du chargement des articles de blog. Veuillez réessayer plus tard.",
+      "retry": "Réessayer"
+    },
+    "empty": {
+      "title": "Aucun article trouvé",
+      "message": "Aucun article de blog n'est actuellement disponible.",
+      "viewAll": "Voir tous les articles"
+    },
+    "loadMore": "Charger plus d'articles"
+  },
+  "BlogCard": {
+    "readMore": "Lire la suite"
+  },
+  "AllBlogs": {
+    "meta": {
+      "title": "Blog & Informations | NED Swiss",
+      "description": "Découvrez les dernières informations, tendances et conseils d'experts de NED Swiss. Restez à la pointe du paysage numérique grâce à nos articles de blog complets."
+    }
+  },
+  "BlogError": {
+    "title": "Quelque chose s'est mal passé",
+    "message": "Une erreur s'est produite lors du chargement des articles de blog. Veuillez réessayer.",
+    "retry": "Réessayer",
+    "goHome": "Aller à la page d'accueil"
+  },
+  "BlogDetail": {
+    "backToBlog": "Retour au blog",
+    "minRead": "min de lecture",
+    "tags": "tags",
+    "relatedTopics": "Sujets connexes",
+    "allArticles": "Tous les articles",
+    "share": "Partager",
+    "bookmark": "Marquer",
+    "noRelatedBlogs": "Aucun article connexe trouvé",
+    "noRelatedBlogsMessage": "Consultez notre page de blog pour plus d'articles intéressants.",
+    "viewAllBlogs": "Voir tous les blogs",
+    "meta": {
+      "title": "{title} | Blog NED Swiss",
+      "description": "{excerpt}"
+    }
+  },
+  "Services": {
+    "title": "Services numériques qui génèrent des",
+    "highlight": "Résultats",
+    "subtitle": "Solutions numériques complètes adaptées aux entreprises suisses. Du design créatif au développement technique, nous gérons tout avec précision et excellence.",
+    "tabs": {
+      "design": "Design & Impression",
+      "webDevelopment": "Développement Web",
+      "socialMedia": "Installation 3D & Enseignes Lumineuses",
+      "digitalMarketing": "Marketing Digital"
+    },
+    "design": {
+      "title": "Design Graphique & Branding",
+      "subtitle": "Identité visuelle qui marque les esprits",
+      "description": "Nous créons des récits visuels percutants qui résonnent avec votre public et renforcent l'identité de votre marque sur tous les points de contact.",
+      "features": {
+        "ecommerce": "Identité de marque & Design de logo",
+        "restaurant": "Design d'impression & Matériel marketing",
+        "landing": "Graphiques numériques & Actifs pour les médias sociaux",
+        "corporate": "Design d'emballage & de produit"
+      },
+      "cta": "Démarrer votre projet de design"
+    },
+    "socialMedia": {
+      "title": "Gestion des Médias Sociaux",
+      "subtitle": "Présence et stratégie sociale engageantes",
+      "description": "Nous construisons et gérons votre présence sur les médias sociaux avec une création de contenu stratégique, un engagement communautaire et des tactiques de croissance basées sur les données.",
+      "features": {
+        "contentCreation": "Création & Planification de Contenu",
+        "communityManagement": "Gestion de Communauté",
+        "analytics": "Analyses & Rapports",
+        "strategy": "Stratégie de Médias Sociaux"
+      },
+      "cta": "Boostez votre présence sociale"
+    },
+    "webDevelopment": {
+      "header": {
+        "title": "Nous livrons des solutions numériques innovantes qui favorisent la croissance et dépassent les attentes"
+      },
+      "websiteDesign": {
+        "title": "Conception de site web",
+        "description": "Nous créons des sites web modernes, réactifs et conviviaux qui reflètent votre marque et offrent des expériences numériques fluides sur tous les appareils.",
+        "workIncludes": {
+          "title": "Nos travaux incluent",
+          "items": {
+            "ecommerce": "Site web E-commerce",
+            "restaurant": "Site web de restaurant",
+            "landing": "Page d'atterrissage",
+            "corporate": "Site web d'entreprise"
+          }
+        },
+        "cta": {
+          "text": "Votre marque, notre passion"
+        }
+      },
+      "systemDevelopment": {
+        "title": "Développement de systèmes",
+        "description": "Nous construisons des systèmes et logiciels sur mesure qui s'adaptent parfaitement à vos besoins commerciaux, tels que des plateformes CRM, des systèmes RH ou toute solution personnalisée qui rationalise les opérations et améliore les performances.",
+        "workIncludes": {
+          "title": "Nos travaux incluent",
+          "items": {
+            "crm": "Systèmes CRM",
+            "hr": "Systèmes de gestion RH",
+            "inventory": "Solutions d'inventaire & ERP",
+            "booking": "Systèmes de réservation"
+          }
+        },
+        "cta": {
+          "text": "Votre marque, notre passion"
+        }
+      },
+      "expertises": {
+        "title": "Expertises",
+        "tabs": {
+          "nedx": "NEDX",
+          "nedswiss": "NED SWISS"
+        },
+        "nedx": {
+          "title": "CRM SaaS pour les entreprises de déménagement et de relocation – Solution d'entreprise",
+          "description": "NEDX CRM est une plateforme SaaS sur mesure qui transforme la façon dont les entreprises de déménagement et de relocation gèrent leurs activités – du contact client et des offres à la planification, aux paiements sécurisés et à l'analyse financière – tout en un seul système intelligent. Révolutionner la gestion d'entreprise : une plateforme CRM sur mesure pour l'industrie du déménagement.",
+          "subtitle": "Révolutionner la gestion d'entreprise : une plateforme CRM sur mesure pour les entreprises en croissance",
+          "awards": {
+            "title": "Récompenses",
+            "items": [
+              "Innovation technologique mondiale 2025 - Or dans les solutions d'affaires",
+              "Prix d'excellence numérique 2024 - Argent dans l'expérience utilisateur"
+            ]
+          },
+          "expertises": {
+            "title": "Expertises",
+            "items": [
+              "Gestion des clients et des prospects",
+              "Automatisation des offres et des factures (PDF, Approbations par e-mail)",
+              "Gestion des tâches et des employés avec rôles et permissions",
+              "Paiements en ligne sécurisés (Stripe)",
+              "Planification et dispatching (Intégration Google Agenda)",
+              "Outils financiers et reporting",
+              "Support multilingue et notifications en temps réel"
+            ]
+          },
+          "technologies": {
+            "title": "Technologies",
+            "items": [
+              "ASP.NET Core (.NET)",
+              "Backend C#",
+              "Entity Framework Core",
+              "API Web RESTful",
+              "Stripe (Paiements)",
+              "API Google Calendar",
+              "QuestPDF (Génération de documents)",
+              "SignalR (Notifications en temps réel)",
+              "React.js"
+            ]
+          },
+          "conclusion": "Construit avec une architecture multi-tenant sécurisée, NEDX CRM permet aux propriétaires de plateforme et aux entreprises de déménagement de fonctionner efficacement. Les super-administrateurs peuvent gérer les abonnements, suivre les revenus et surveiller les performances de l'entreprise."
+        },
+        "nedswiss": {
+          "title": "NED SWISS – La plateforme de gestion tout-en-un pour les agences modernes",
+          "description": "NED SWISS est une plateforme de gestion avancée conçue spécifiquement pour les agences afin d'optimiser la gestion des clients, de suivre les revenus et les dépenses, d'attribuer les tâches aux employés, d'interagir avec un assistant IA et d'analyser les bénéfices et les performances via des tableaux de bord précis et des rapports visuels. Une percée dans la gestion d'entreprise – tout ce dont vous avez besoin dans un système intelligent.",
+          "subtitle": "Révolutionner la gestion d'entreprise : une plateforme CRM sur mesure pour les entreprises en croissance",
+          "awards": {
+            "title": "Récompenses",
+            "items": [
+              "Innovation technologique mondiale 2025 - Or dans les solutions d'affaires",
+              "Prix d'excellence numérique 2024 - Argent dans l'expérience utilisateur"
+            ]
+          },
+          "expertises": {
+            "title": "Expertises",
+            "items": [
+              "Gestion des clients et des prospects – Une vue complète de toutes les interactions client",
+              "Automatisation des offres et des factures – Générer et envoyer des documents PDF avec des flux d'approbation par e-mail.",
+              "Gestion des tâches et des employés – Attribuer des rôles et des permissions pour assurer des flux de travail efficaces.",
+              "Paiements en ligne sécurisés (Stripe)",
+              "Assistant IA – Aide intelligente à la décision pour des résultats plus rapides et meilleurs.",
+              "Outils financiers et reporting",
+              "Support multilingue et notifications en temps réel"
+            ]
+          },
+          "technologies": {
+            "title": "Technologies",
+            "items": [
+              "ASP.NET Core (.NET)",
+              "Backend C#",
+              "Entity Framework Core",
+              "API Web RESTful",
+              "Stripe (Paiements)",
+              "API Google Calendar",
+              "QuestPDF (Génération de documents)",
+              "SignalR (Notifications en temps réel)",
+              "React.js"
+            ]
+          },
+          "conclusion": "Avec son architecture multi-tenant robuste et sécurisée, NED SWISS permet aux propriétaires de plateforme et aux agences de fonctionner avec une efficacité inégalée. Les super-administrateurs peuvent gérer les abonnements, suivre les revenus et surveiller les performances de l'entreprise, tandis que les agences disposent d'outils puissants pour gérer les clients, les offres, les paiements et les employés – tout en un seul endroit."
+        }
+      }
+    },
+    "GraphicDesign": {
+      "header": {
+        "title": "Nous concevons et livrons des expériences numériques de pointe qui permettent aux entreprises de croître, de réussir et de dépasser les limites."
+      },
+      "websiteDesign": {
+        "title": "Design Graphique & Impression",
+        "description": "Nous créons des designs graphiques uniques et percutants qui donnent vie à votre marque, laissant une impression durable sur les plateformes imprimées, numériques et sociales.",
+        "workIncludes": {
+          "title": "Nos travaux incluent",
+          "items": {
+            "ecommerce": "Logo & Identité de Marque",
+            "restaurant": "Cartes de Visite",
+            "landing": "Flyers & Brochures",
+            "corporate": "Designs pour les Médias Sociaux"
+          }
+        },
+        "cta": {
+          "text": "Votre marque, notre passion"
+        }
+      },
+      "systemDevelopment": {
+        "title": "Impression Offset",
+        "description": "Nous fournissons des solutions d'impression offset de haute qualité qui garantissent précision, cohérence et résultats éclatants – parfaites pour les grands volumes de magazines, catalogues, emballages et supports marketing qui rehaussent la présence de votre marque.",
+        "workIncludes": {
+          "title": "Nos travaux incluent",
+          "items": {
+            "crm": "Affiches",
+            "hr": "Cartes de Visite",
+            "inventory": "Catalogues",
+            "booking": "Brochures"
+          }
+        },
+        "cta": {
+          "text": "Votre marque, notre passion"
+        }
+      },
+      "expertises": {
+        "title": "Expertises",
+        "tabs": {
+          "businessCards": "Cartes de Visite",
+          "flyers": "Flyers",
+          "logo": "Logo"
+        },
+        "businessCards": {
+          "title": "Design de carte de visite promotionnelle pour le restaurant Bella Mila",
+          "description": "Une carte de visite innovante a été conçue pour Bella Mila, un restaurant spécialisé dans la pizza, afin de servir d'outil marketing efficace allant au-delà de la simple affichage des coordonnées. L'objectif principal du design est d'encourager les clients à commander et à augmenter les ventes en intégrant une offre promotionnelle attrayante directement sur la carte.",
+          "subtitle": "La carte contient toutes les informations dont un client a besoin pour prendre une décision d'achat et profiter de l'offre :",
+          "mainOffer":{
+            "title": "Offre principale",
+            "items": [
+              "Remise immédiate de CHF 10.",
+              "Bon d'achat d'une valeur de CHF 10."
+            ]
+          },
+          "offerConditions":{
+            "title": "Conditions de l'offre",
+            "description": "Commande minimum : CHF 30\nNote importante : Les bons ne peuvent pas être combinés avec d'autres offres.\nDate d'expiration : Offre valable jusqu'au 31 décembre 2025"
+          },
+          "contactDetails":{
+            "title": "Coordonnées & Informations de commande",
+            "description": "Pour bénéficier de l'offre : valable lors de la commande par téléphone.\nNuméro de téléphone : 056 222 01 02\nAdresse : Bruggerstrasse 173, 5400 Baden"
+          },
+          "footer":{
+            "title": "Pied de page",
+            "description": "Le design se caractérise par un fond sombre et texturé pour mettre en valeur le logo vibrant du restaurant et une image de pizza alléchante. Des accents rouges et blancs sont stratégiquement appliqués pour souligner les détails de l'offre et les informations de contact, assurant la lisibilité et faisant de la carte un outil marketing mémorable entre les mains de chaque client."
+          },
+          "expertises": {
+            "title": "Expertises",
+            "items": [
+              "Gestion des clients et des prospects",
+              "Automatisation des offres et des factures (PDF, Approbations par e-mail)",
+              "Gestion des tâches et des employés avec rôles et permissions",
+              "Paiements en ligne sécurisés (Stripe)",
+              "Planification et dispatching (Intégration Google Agenda)",
+              "Outils financiers et reporting",
+              "Support multilingue et notifications en temps réel"
+            ]
+          },
+          "technologies": {
+            "title": "Technologies",
+            "items": [
+              "ASP.NET Core (.NET)",
+              "Backend C#",
+              "Entity Framework Core",
+              "API Web RESTful",
+              "Stripe (Paiements)",
+              "API Google Calendar",
+              "QuestPDF (Génération de documents)",
+              "SignalR (Notifications en temps réel)",
+              "React.js"
+            ]
+          },
+          "conclusion": "Construit avec une architecture multi-tenant sécurisée, NEDX CRM permet aux propriétaires de plateforme et aux entreprises de déménagement de fonctionner efficacement. Les super-administrateurs peuvent gérer les abonnements, suivre les revenus et surveiller les performances de l'entreprise."
+        },
+        "flyers": {
+          "title": "Identité visuelle & Design de flyer promotionnel pour Coiffeur Adam",
+          "description": "Une carte de visite innovante a été conçue pour Bella Mila, un restaurant spécialisé dans la pizza, afin de servir d'outil marketing efficace allant au-delà de la simple affichage des coordonnées. L'objectif principal du design est d'encourager les clients à commander et à augmenter les ventes en intégrant une offre promotionnelle attrayante directement sur la carte.",
+          "subtitle": "La carte contient toutes les informations dont un client a besoin pour prendre une décision d'achat et profiter de l'offre :",
+          "mainOffer":{
+            "title": "Offre principale",
+            "items": [
+              "Remise immédiate de CHF 10.",
+              "Bon d'achat d'une valeur de CHF 10."
+            ]
+          },
+          "offerConditions":{
+            "title": "Conditions de l'offre",
+            "description": "Commande minimum : CHF 30\nNote importante : Les bons ne peuvent pas être combinés avec d'autres offres.\nDate d'expiration : Offre valable jusqu'au 31 décembre 2025"
+          },
+          "contactDetails":{
+            "title": "Coordonnées & Informations de commande",
+            "description": "Pour bénéficier de l'offre : valable lors de la commande par téléphone.\nNuméro de téléphone : 056 222 01 02\nAdresse : Bruggerstrasse 173, 5400 Baden"
+          },
+          "footer":{
+            "title": "Pied de page",
+            "description": "Chez Coiffeur Adam, il ne s'agit pas seulement du service en soi, mais des détails subtils qui mettent en valeur votre beauté naturelle de la meilleure façon. Notre épilation des sourcils est réalisée avec soin et professionnalisme, vous offrant un look équilibré et élégant tout en profitant d'une expérience relaxante dans une atmosphère raffinée. Ce design visuel intégré reflète notre philosophie de combiner qualité et sophistication, permettant aux clients de ressentir le luxe et l'attention aux détails dès le premier instant – avant même d'entrer dans le salon."
+          },
+          "expertises": {
+            "title": "Expertises",
+            "items": [
+              "Gestion des clients et des prospects",
+              "Automatisation des offres et des factures (PDF, Approbations par e-mail)",
+              "Gestion des tâches et des employés avec rôles et permissions",
+              "Paiements en ligne sécurisés (Stripe)",
+              "Planification et dispatching (Intégration Google Agenda)",
+              "Outils financiers et reporting",
+              "Support multilingue et notifications en temps réel"
+            ]
+          },
+          "technologies": {
+            "title": "Technologies",
+            "items": [
+              "ASP.NET Core (.NET)",
+              "Backend C#",
+              "Entity Framework Core",
+              "API Web RESTful",
+              "Stripe (Paiements)",
+              "API Google Calendar",
+              "QuestPDF (Génération de documents)",
+              "SignalR (Notifications en temps réel)",
+              "React.js"
+            ]
+          },
+          "conclusion": "Construit avec une architecture multi-tenant sécurisée, NEDX CRM permet aux propriétaires de plateforme et aux entreprises de déménagement de fonctionner efficacement. Les super-administrateurs peuvent gérer les abonnements, suivre les revenus et surveiller les performances de l'entreprise."
+        },
+        "logo": {
+          "title": "Présentation professionnelle de l'identité du logo du restaurant La Delizia",
+          "description": "Concept principal : La joie de l'authenticité italienne avec une touche moderne",
+          "subtitle": "Le nom « La Delizia » signifie « délice » ou « joie » en italien, ce qui capture parfaitement l'essence de l'identité de la marque. Le logo est conçu pour refléter une expérience culinaire inoubliable, transmettant un message clair : un restaurant qui allie l'authenticité de la cuisine italienne traditionnelle à une atmosphère moderne et élégante.",
+          "subtitle2": "Le logo est construit sur trois éléments fondamentaux qui s'unissent pour former une identité forte et distinctive :",
+          "keyElements": {
+            "title": "Éléments clés du logo",
+            "items": [
+              {
+                "title": "1. Drapeau italien artistique",
+                "description": "Style coup de pinceau au lieu d'un drapeau rigide. Symbolise la passion, la créativité et l'authenticité – chaque plat comme une œuvre d'art artisanale."
+              },
+              {
+                "title": "2. Duo typographique intelligent",
+                "description": "La Delizia : Sans-serif moderne, en minuscules → élégance, simplicité et accessibilité.\nPizzeria – Ristorante : Serif classique → tradition, héritage et crédibilité."
+              }
+            ]
+          },
+          "footer":{
+            "title": "Message intégré",
+            "description": "Le logo allie tradition et modernité : des saveurs italiennes authentiques, présentées avec élégance et qualité, créant une expérience culinaire joyeuse et mémorable."
+          },
+          "conclusion": "Avec son architecture multi-tenant robuste et sécurisée, NED SWISS permet aux propriétaires de plateforme et aux agences de fonctionner avec une efficacité inégalée. Les super-administrateurs peuvent gérer les abonnements, suivre les revenus et surveiller les performances de l'entreprise, tandis que les agences disposent d'outils puissants pour gérer les clients, les offres, les paiements et les employés – tout en un seul endroit."
+        }
+      }
+    },
+    "IlluminatedSigns": {
+      "header": {
+        "title": "Nous illuminons votre marque avec des solutions de signalisation de pointe et des installations 3D époustouflantes qui captent l'attention et créent des impressions durables."
+      },
+      "signageSolutions": {
+        "title": "Solutions de signalisation lumineuse",
+        "description": "Nous créons des enseignes lumineuses vibrantes et accrocheuses qui améliorent la visibilité de votre marque 24h/24 et 7j/7, combinant une technologie d'éclairage innovante avec un savoir-faire supérieur.",
+        "workIncludes": {
+          "title": "Nos travaux incluent",
+          "items": {
+            "led": "Enseignes à affichage LED",
+            "neon": "Enseignes au néon et flexibles",
+            "channel": "Enseignes à lettres boîtiers",
+            "backlit": "Panneaux et tableaux rétroéclairés"
+          }
+        },
+        "cta": {
+          "text": "Illuminez votre marque"
+        }
+      },
+      "installations": {
+        "title": "Installations 3D",
+        "description": "Nous concevons et installons des affichages tridimensionnels époustouflants qui transforment les espaces, créant des expériences immersives qui engagent les clients et rehaussent la présence de votre marque.",
+        "workIncludes": {
+          "title": "Nos travaux incluent",
+          "items": {
+            "dimensional": "Installations de lettres 3D",
+            "architectural": "Éléments d'éclairage architectural",
+            "digital": "Installations d'affichage numérique",
+            "interactive": "Éléments 3D interactifs"
+          }
+        },
+        "cta": {
+          "text": "Transformez votre espace"
+        }
+      },
+      "expertises": {
+        "title": "Expertises",
+        "tabs": {
+          "led": "Systèmes LED",
+          "neon": "Solutions Néon",
+          "threed": "Installations 3D"
+        },
+        "led": {
+          "title": "Systèmes de signalisation LED avancés",
+          "description": "Nos solutions de signalisation LED combinent l'efficacité énergétique avec un éclairage brillant, offrant des écrans programmables qui s'adaptent à vos besoins marketing avec un impact visuel époustouflant.",
+          "subtitle": "Pourquoi choisir nos solutions LED :",
+          "features": {
+            "title": "Caractéristiques clés et avantages",
+            "items": [
+              "Technologie LED écoénergétique avec jusqu'à 80% d'économies d'énergie",
+              "Écrans programmables à changement de couleur pour une messagerie dynamique",
+              "Conception résistante aux intempéries pour une durabilité extérieure",
+              "Capacités de contrôle à distance pour une gestion de contenu facile"
+            ]
+          },
+          "applications": {
+            "title": "Applications parfaites",
+            "description": "Idéal pour les devantures de magasins, les centres commerciaux, les restaurants, les hôtels et les bâtiments d'entreprise recherchant une visibilité maximale et un attrait moderne."
+          },
+          "footer": {
+            "description": "Nos systèmes LED sont conçus pour la longévité et la performance, soutenus par des garanties complètes et des services d'installation professionnels."
+          }
+        },
+        "neon": {
+          "title": "Solutions d'enseignes au néon et flex personnalisées",
+          "description": "Nous créons des enseignes au néon et LED flex époustouflantes qui capturent l'attrait classique du néon traditionnel tout en offrant une efficacité et une polyvalence modernes pour tout concept de design.",
+          "subtitle": "Le mélange parfait du classique et du moderne :",
+          "features": {
+            "title": "Ce qui rend nos néons spéciaux",
+            "items": [
+              "Options de néon en verre traditionnel et de LED flex modernes",
+              "Formes et designs personnalisés pour une expression de marque unique",
+              "Éclairage continu avec une illumination douce et uniforme"
+            ]
+          },
+          "applications": {
+            "title": "Idéal pour",
+            "description": "Parfait pour les restaurants, les bars, les magasins de détail, les lieux de divertissement et toute entreprise souhaitant cet éclat néon distinctif et cette esthétique vintage."
+          },
+          "footer": {
+            "description": "Nos solutions néon combinent l'artisanat artistique avec la précision technique pour créer des enseignes qui deviennent des caractéristiques marquantes de votre entreprise."
+          }
+        },
+        "threed": {
+          "title": "Solutions d'installation 3D professionnelles",
+          "description": "Transformez votre espace avec un impact dimensionnel",
+          "subtitle": "Nous créons des installations tridimensionnelles qui ajoutent de la profondeur, de la texture et un intérêt visuel à n'importe quel environnement, rendant votre marque impossible à ignorer.",
+          "subtitle2": "Notre processus d'installation 3D comprend trois phases critiques :",
+          "features": {
+            "title": "Nos capacités 3D",
+            "items": [
+              {
+                "title": "Lettres et logos dimensionnels",
+                "description": "Lettres découpées avec précision avec rétroéclairage LED ou éclairage frontal pour un impact maximal de la marque."
+              },
+              {
+                "title": "Intégration architecturale",
+                "description": "Intégration transparente avec les façades de bâtiments et les espaces intérieurs pour un design cohérent."
+              },
+              {
+                "title": "Éléments interactifs",
+                "description": "Installations activées par le mouvement et réactives au toucher qui engagent activement les clients."
+              }
+            ]
+          },
+          "footer": {
+            "title": "Service complet",
+            "description": "Du concept initial et de la modélisation 3D à la fabrication et à l'installation professionnelle, nous gérons chaque aspect de votre projet de signalisation 3D avec précision et expertise."
+          }
+        }
+      }
+    },
+    "digitalMarketing": {
+      "header": {
+        "title": "Nous créons des expériences numériques qui inspirent les gens, renforcent les marques et aident les entreprises à croître en toute confiance"
+      },
+      "websiteDesign": {
+        "title": "Conception de site web",
+        "description": "Nous créons des sites web modernes, réactifs et conviviaux qui reflètent votre marque et offrent des expériences numériques fluides sur tous les appareils.",
+        "workIncludes": {
+          "title": "Nos travaux incluent",
+          "items": {
+            "ecommerce": "Création de compte & Branding",
+            "restaurant": "Création de contenu & Planification",
+            "landing": "Gestion de communauté",
+            "corporate": "Designs créatifs",
+            "paidAds": "Publicité payante"
+          }
+        },
+        "cta": {
+          "text": "Votre marque, notre passion"
+        }
+      },
+      "expertises": {
+        "title": "Expertises",
+        "tabs": {
+          "seo": "SEO",
+          "socialMedia": "Médias Sociaux",
+          "paidAds": "Publicité Payante"
+        },
+        "seo": {
+          "title": "De la distinction au pouvoir – C'est le parcours de votre marque",
+          "description": "Dans le marché saturé d'aujourd'hui, comment vous assurer de ne pas être juste une option parmi d'autres ?",
+          "subtitle": "Chez NED SWISS, nous ne vous aidons pas seulement à vous démarquer. Nous construisons avec vous une marque forte et influente qui vous donne le pouvoir de grandir et de dominer.",
+          "stageOne": {
+            "title": "Étape Un : Distinction :",
+            "description": "Nous commençons ici avec vous : en vous aidant à vous démarquer de vos concurrents – tout comme le ballon rouge vif dans un ciel d'ombres. Grâce à une identité visuelle et une stratégie fortes, nous rendons votre marque visible et unique. Mais la distinction n'est pas le but final… c'est seulement le début."
+          },
+          "stageTwo": {
+            "title": "Étape Deux : Pouvoir",
+            "description": "Nous transformons votre marque d'un simple ballon coloré en le « roi » qui domine l'échiquier. Chez NED SWISS, nous ne vous aidons pas seulement à vous démarquer. Nous construisons avec vous une marque forte et influente qui vous donne le pouvoir de grandir et de dominer. Le design équilibre un fond moderne avec des visuels saisissants du produit présenté. Des accents de couleur soigneusement placés améliorent la lisibilité de l'offre et de l'appel à l'action, créant un support promotionnel à la fois élégant et percutant."
+          },
+          "technologies": {
+            "title": "Technologies",
+            "items": [
+              "ASP.NET Core (.NET)",
+              "Backend C#",
+              "Entity Framework Core",
+              "API Web RESTful",
+              "Stripe (Paiements)",
+              "API Google Calendar",
+              "QuestPDF (Génération de documents)",
+              "SignalR (Notifications en temps réel)",
+              "React.js"
+            ]
+          },
+          "conclusion": "Construit avec une architecture multi-tenant sécurisée, NEDX CRM permet aux propriétaires de plateforme et aux entreprises de déménagement de fonctionner efficacement. Les super-administrateurs peuvent gérer les abonnements, suivre les revenus et surveiller les performances de l'entreprise."
+        },
+        "socialMedia": {
+            "title": "La stratégie tridimensionnelle du feu de signalisation :",
+            "description": "La stratégie tridimensionnelle du feu de signalisation est une approche puissante du marketing digital qui aide les entreprises à croître et à dominer leur marché. Elle combine trois éléments clés : la création de contenu, la gestion de communauté et les publicités payantes, pour créer une stratégie marketing complète et efficace.",
+          "subtitle": "Chez NED SWISS, nous ne gérons pas seulement des comptes, nous propulsons leur succès. Le mot allemand « Steuern » signifie à la fois gestion, direction, orientation et contrôle. Tout comme un système de feux de signalisation intelligent qui organise les intersections les plus fréquentées, nous mettons en œuvre un système stratégique qui transforme le chaos en un flux de résultats rationalisé.",
+          "stageOne": {
+            "title": "Feu Jaune : Préparer & Optimiser",
+            "description": "Créer du contenu, concevoir des visuels, cibler précisément et tester pour les meilleurs résultats."
+          },
+          "stageTwo": {
+            "title": "Feu Vert : Exécuter & Piloter",
+            "description": "Lancer des campagnes, gérer des publicités, engager des audiences et générer du trafic vers votre site web ou votre magasin."
+          },
+          "expertises": {
+            "title": "Expertises",
+            "items": [
+              "Gestion des clients et des prospects – Une vue complète de toutes les interactions client",
+              "Automatisation des offres et des factures – Générer et envoyer des documents PDF avec des flux d'approbation par e-mail.",
+              "Gestion des tâches et des employés – Attribuer des rôles et des permissions pour assurer des flux de travail efficaces.",
+              "Paiements en ligne sécurisés (Stripe)",
+              "Assistant IA – Aide intelligente à la décision pour des résultats plus rapides et meilleurs.",
+              "Outils financiers et reporting",
+              "Support multilingue et notifications en temps réel"
+            ]
+          },
+          "technologies": {
+            "title": "Technologies",
+            "items": [
+              "ASP.NET Core (.NET)",
+              "Backend C#",
+              "Entity Framework Core",
+              "API Web RESTful",
+              "Stripe (Paiements)",
+              "API Google Calendar",
+              "QuestPDF (Génération de documents)",
+              "SignalR (Notifications en temps réel)",
+              "React.js"
+            ]
+          },
+          "conclusion": "Avec son architecture multi-tenant robuste et sécurisée, NED SWISS permet aux propriétaires de plateforme et aux agences de fonctionner avec une efficacité inégalée. Les super-administrateurs peuvent gérer les abonnements, suivre les revenus et surveiller les performances de l'entreprise, tandis que les agences disposent d'outils puissants pour gérer les clients, les offres, les paiements et les employés – tout en un seul endroit."
+        },
+        "paidAds": {
+          "title": "Dans un monde saturé, n'attendez pas les opportunités... Créez votre propre chemin vers elles",
+          "description": "De nombreuses marques ont des produits et services solides, mais se perdent dans le bruit de l'espace numérique. Atteindre le bon client n'a pas besoin d'être un processus long ou incertain. Avec la publicité payante, vous pouvez vous connecter directement et efficacement. Chez NED SWISS, nous construisons ce chemin en trois étapes structurées.",
+          "subtitle": "Chez NED SWISS, nous construisons ce chemin en trois étapes structurées :",
+          "subtitle2": "Planification stratégique Étude de marché et ciblage précis de l'audience. Exécution créative Campagnes sur Google, Meta, LinkedIn et TikTok avec des visuels et des messages percutants. Optimisation continue Surveillance en temps réel, tests A/B et ajustements basés sur les données pour des résultats maximums.",
+          "keyBenefits": {
+            "title": "Avantages clés",
+            "items": [
+              "Atteinte rapide et directe des clients.",
+              "Ciblage précis avec une utilisation efficace du budget.",
+              "Contrôle total du message et des dépenses.",
+              "Croissance mesurable avec un retour sur investissement clair.",
+              "Des couleurs vives sont utilisées avec parcimonie sur un fond neutre pour guider le regard du spectateur vers les détails de l'offre et les points de contact."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "SplashScreen": {
+    "mainText": "Excellence numérique, Précision suisse",
+    "subtitle": "Transformer les idées en réalité numérique",
+    "loading": "Chargement de l'expérience",
+    "tagline": "Excellence numérique, Précision suisse",
+    "digitalTransformation": "TRANSFORMATION NUMÉRIQUE",
+    "digitalExcellence": "Excellence Numérique",
+    "precision": "Précision",
+    "innovation": "Innovation",
+    "excellence": "Excellence"
+  },
+  "PrivacyConsent": {
+    "title": "Confidentialité & Collecte de données",
+    "description": "Nous collectons des données de visiteurs de base (pays, durée de session) pour améliorer nos services. Cela nous aide à comprendre notre public et à améliorer votre expérience.",
+    "accept": "Accepter",
+    "decline": "Refuser"
+  },
+  "WhatsApp": {
+    "button": {
+      "ariaLabel": "Contactez-nous sur WhatsApp"
+    },
+    "modal": {
+      "title": "Bienvenue chez NED Swiss !",
+      "subtitle": "Prêt à transformer votre présence numérique ?",
+      "description": "Connectez-vous instantanément à notre équipe et découvrez comment nous pouvons vous aider à concrétiser votre vision avec la précision et l'excellence suisses.",
+      "whatsappButton": "Discuter sur WhatsApp",
+      "maybeLater": "Peut-être plus tard",
+      "close": "Fermer",
+      "footer": "Nous sommes là pour vous aider 24h/24 et 7j/7"
+    },
+    "message": {
+      "default": "Bonjour ! Je suis intéressé(e) par les services de NED Swiss."
+    }
+  }
+}

@@ -1,0 +1,645 @@
+{
+"Navigation": {
+    "home": "Home",
+    "about": "About",
+    "ourStory": "Our Story",
+    "team": "Team",
+    "valuesPhilosophy": "Values & Philosophy",
+    "ourProcess": "Our Process",
+    "services": "Services",
+    "graphicDesign": "Graphic Design",
+    "webDevelopment": "Web Development",
+    "socialMediaManagement": "Social Media Management",
+    "seoServices": "SEO Services",
+    "softwareSolutions": "Software Solutions",
+    "advertisingSolutions": "Advertising Solutions",
+    "portfolio": "Portfolio",
+    "caseStudies": "Case Studies",
+    "projectGallery": "Project Gallery",
+    "blog": "Blog",
+          "contact": "Contact",
+      "letsTalk": "LET'S TALK",
+    "careers": "Careers",
+    "clientPortal": "Client Portal",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service"
+  },
+  "HomePage": {
+    "meta": {
+      "title": "NED Swiss | Digital Excellence, Swiss Precision",
+      "description": "NED Swiss is a digital agency delivering exceptional web development, design, and digital marketing services with Swiss precision and excellence."
+    },
+    "hero": {
+      "tagline": "Digital Excellence, Swiss Precision",
+      "headline": "Transforming Ideas into Digital Success",
+      "subtitle": "We craft exceptional digital experiences that drive results for forward-thinking businesses",
+      "cta": "Start Your Project"
+    },
+    "services": {
+      "title": "Our Services",
+      "subtitle": "Comprehensive digital solutions tailored to your needs",
+      "graphicDesign": {
+        "title": "Graphic Design",
+        "description": "Visual identity that makes an impact"
+      },
+      "webDevelopment": {
+        "title": "Web Development",
+        "description": "Custom websites and web applications"
+      },
+      "socialMediaManagement": {
+        "title": "Social Media Management",
+        "description": "Engaging social presence and strategy"
+      },
+      "seoServices": {
+        "title": "SEO Services",
+        "description": "Improve visibility and organic traffic"
+      },
+      "softwareSolutions": {
+        "title": "Software Solutions",
+        "description": "Custom software for business needs"
+      },
+      "advertisingSolutions": {
+        "title": "Advertising Solutions",
+        "description": "Strategic campaigns that convert"
+      }
+    },
+    "about": {
+      "title": "About NED Swiss",
+      "mission": "Empowering businesses through innovative digital solutions",
+      "description": "We combine Swiss precision with digital innovation to deliver exceptional results for our clients.",
+      "cta": "Learn More About Us"
+    },
+    "Services": {
+      "title": "Everything You Need in",
+      "highlight": "One Place",
+      "subtitle": "We deliver innovative digital solutions that drive growth and exceed expectations",
+      "ourWorkIncludes": "Our Work Includes",
+      "tabs": {
+        "design": "Design",
+        "webDevelopment": "Web Development",
+        "socialMedia": "Social Media",
+        "digitalMarketing": "Digital Marketing"
+      },
+      "badges": {
+        "webDesign": "WEB DESIGN",
+        "professional": "PROFESSIONAL WEBSITE",
+        "creative": "CREATIVE",
+        "results": "RESULTS"
+      },
+      "design": {
+        "title": "Website Design",
+        "subtitle": "We craft modern, responsive, and user-friendly websites that reflect your brand and deliver seamless digital experiences across all devices.",
+        "description": "Our design approach combines aesthetics with functionality, ensuring your website not only looks stunning but also performs exceptionally well.",
+        "features": {
+          "ecommerce": "E-commerce Website",
+          "restaurant": "Restaurant Website",
+          "landing": "Landing Page",
+          "corporate": "Corporate Website"
+        },
+        "cta": "Your Brand, Our Passion",
+        "services": {
+          "branding": {
+            "title": "Brand Identity & Logo Design",
+            "description": "Create a memorable brand identity that resonates with your audience",
+            "features": {
+              "logoDesign": "Custom Logo Design",
+              "brandGuidelines": "Brand Guidelines",
+              "colorPalette": "Color Palette",
+              "typography": "Typography Selection"
+            }
+          },
+          "print": {
+            "title": "Print Design & Marketing Materials",
+            "description": "Professional print materials that make a lasting impression",
+            "features": {
+              "businessCards": "Business Cards",
+              "brochures": "Brochures & Flyers",
+              "posters": "Posters & Banners",
+              "packaging": "Packaging Design"
+            }
+          },
+          "digital": {
+            "title": "Digital Graphics & Social Media Assets",
+            "description": "Eye-catching digital designs for all your online needs",
+            "features": {
+              "socialMedia": "Social Media Graphics",
+              "webGraphics": "Web Graphics",
+              "banners": "Digital Banners",
+              "infographics": "Infographics"
+            }
+          }
+        },
+        "process": {
+          "title": "Our Design Process",
+          "steps": {
+            "discovery": "Discovery & Research",
+            "concept": "Concept Development",
+            "design": "Design & Refinement",
+            "delivery": "Delivery & Support"
+          },
+          "descriptions": {
+            "discovery": "Understanding your brand, audience, and objectives",
+            "concept": "Creating initial concepts and design directions",
+            "design": "Developing and refining the final design solution",
+            "delivery": "Final files delivery and ongoing design support"
+          }
+        }
+      },
+      "webDevelopment": {
+        "title": "System Development",
+        "subtitle": "We build tailored systems and software that perfectly fit your business needs, such as CRM platforms, HR systems, or any custom solutions that streamline operations and improve performance.",
+        "description": "Our development team creates scalable, secure, and efficient solutions using the latest technologies and best practices.",
+        "features": {
+          "crm": "CRM Systems",
+          "hr": "HR Management Systems",
+          "inventory": "Inventory & ERP Solutions",
+          "booking": "Booking & Reservation Systems"
+        },
+        "cta": "Your Brand, Our Passion",
+        "services": {
+          "websites": {
+            "title": "Custom Websites & Web Applications",
+            "description": "Modern, responsive websites built with cutting-edge technologies",
+            "features": {
+              "responsive": "Responsive Design",
+              "seo": "SEO Optimized",
+              "cms": "Content Management",
+              "ecommerce": "E-commerce Integration"
+            }
+          },
+          "systems": {
+            "title": "Business Management Systems",
+            "description": "Streamline your operations with custom business solutions",
+            "features": {
+              "crm": "Customer Relationship Management",
+              "inventory": "Inventory Management",
+              "hr": "Human Resources Systems",
+              "booking": "Booking & Scheduling"
+            }
+          },
+          "mobile": {
+            "title": "Mobile Applications",
+            "description": "Native and cross-platform mobile apps for iOS and Android",
+            "features": {
+              "crossPlatform": "Cross-Platform Development",
+              "native": "Native iOS & Android",
+              "pwa": "Progressive Web Apps",
+              "api": "API Integration"
+            }
+          }
+        },
+        "process": {
+          "title": "Development Process",
+          "steps": {
+            "planning": "Planning & Analysis",
+            "design": "UI/UX Design",
+            "development": "Development",
+            "testing": "Testing & QA",
+            "deployment": "Deployment & Launch"
+          },
+          "descriptions": {
+            "planning": "Requirements gathering and project planning",
+            "design": "User interface and experience design",
+            "development": "Coding and implementation",
+            "testing": "Quality assurance and testing",
+            "deployment": "Launch and ongoing support"
+          }
+        },
+        "features": "Key Features",
+        "technologies": "Technologies",
+        "stats": {
+          "projects": "Completed Projects",
+          "uptime": "System Uptime",
+          "support": "Support Available",
+          "satisfaction": "Client Satisfaction"
+        }
+      },
+      "socialMedia": {
+        "title": "Social Media Management",
+        "subtitle": "Strategic social media management that builds your brand presence and engages your audience across all platforms.",
+        "description": "We create compelling content and manage your social media presence to drive engagement and growth.",
+        "features": {
+          "contentCreation": "Content Creation",
+          "communityManagement": "Community Management",
+          "analytics": "Performance Analytics",
+          "strategy": "Social Media Strategy"
+        },
+        "cta": "Your Brand, Our Passion"
+      },
+      "digitalMarketing": {
+        "title": "Digital Marketing",
+        "subtitle": "Comprehensive digital marketing strategies that increase your online visibility and drive qualified traffic to your business.",
+        "description": "From SEO to paid advertising, we help you reach your target audience and achieve your business goals.",
+        "features": {
+          "seo": "Search Engine Optimization",
+          "ppc": "Pay-Per-Click Advertising",
+          "emailMarketing": "Email Marketing",
+          "contentMarketing": "Content Marketing"
+        },
+        "cta": "Your Brand, Our Passion"
+      }
+    },
+    "process": {
+      "title": "Our Precision Process",
+      "description": "We follow a clear, proven methodology to deliver results that exceed expectations",
+      "step1": {
+        "title": "Consultation",
+        "description": "Understanding your vision"
+      },
+      "step2": {
+        "title": "Strategy",
+        "description": "Crafting the perfect plan"
+      },
+      "step3": {
+        "title": "Execution",
+        "description": "Bringing ideas to life"
+      },
+      "step4": {
+        "title": "Success",
+        "description": "Delivering exceptional results"
+      }
+    },
+    "socialProof": {
+      "title": "Client Feedback",
+      "subtitle": "NED Swiss through our clients' eyes – Discover how we made a difference in their projects.",
+      "clientsRating": "Clients Rating",
+      "clientsSubtitle": "Across the European Market",
+      "projectsCompleted": "Projects Completed",
+      "projectsSubtitle": "Across the European Market",
+      "deliveringResults": "Delivering Results",
+      "deliveringResultsSubtitle": "Across the European Market",
+      "testimonials": {
+        "title": "What Our Clients Say",
+        "items": [
+          {
+            "quote": "NED Swiss transformed our digital presence completely. Their attention to detail and Swiss quality approach exceeded our expectations. Our website conversion rate increased by 300% within the first month.",
+            "author": "Elena Rodriguez",
+            "position": "CEO, Swiss Tech Solutions",
+            "location": "Zurich, Switzerland",
+            "project": "Complete Website Redesign & SEO"
+          },
+          {
+            "quote": "Working with NED Swiss was a game-changer for our brand. They delivered beyond our expectations.",
+            "author": "John Davis",
+            "position": "Marketing Director, GrowthBrand",
+            "location": "Geneva, Switzerland",
+            "project": "Brand Identity & Social Media Strategy"
+          },
+          {
+            "quote": "The attention to detail and strategic approach sets NED Swiss apart from other agencies.",
+            "author": "Anna Miller",
+            "position": "Founder, StartupSuccess",
+            "location": "Basel, Switzerland",
+            "project": "E-commerce Platform Development"
+          }
+        ]
+      }
+    },
+    "HeroSection": {
+      "mainText": "FROM CONCEPT TO REALITY THROUGH",
+      "subtitle": "Marketing Agency",
+      "services": {
+        "graphicDesign": "Graphic Design",
+        "printing": "Printing",
+        "webDevelopment": "Web Development",
+        "socialMedia": "Social Media",
+        "3dInstallations": "3D Installations",
+        "paidAds": "Paid Ads",
+        "seo": "SEO"
+      }
+    },
+    "cta": {
+      "title": {
+        "prefix": "Ready to Start Your",
+        "highlight": "Project",
+        "suffix": "?"
+      },
+      "subtitle": "Let's discuss your vision and create something extraordinary together. Contact us today for a free consultation and quote.",
+      "contact": {
+        "address": {
+          "title": "Address",
+          "street": "Dörfliweg 3",
+          "city": "3098 Köniz"
+        },
+        "phone": {
+          "title": "Phone",
+          "number": "+41782601498"
+        },
+        "email": {
+          "title": "Email",
+          "address": "info@ned-swiss.ch"
+        },
+        "hours": {
+          "title": "Business Hours",
+          "weekdays": "Mon - Fri: 9:00 AM - 6:00 PM",
+          "saturday": "Sat: 10:00 AM - 4:00 PM", 
+          "sunday": "Sun: Closed"
+        }
+      },
+      "form": {
+        "title": "Send a Message",
+        "fields": {
+          "firstName": "First Name *",
+          "lastName": "Last Name *",
+          "email": "Email *",
+          "phone": "Phone *",
+          "company": "Company *",
+          "service": "Service *",
+          "message": "Message *"
+        },
+        "placeholders": {
+          "firstName": "Your first name",
+          "lastName": "Your last name",
+          "email": "Your email",
+          "phone": "Your phone",
+          "company": "Your company",
+          "service": "Service needed",
+          "message": "Your message"
+        },
+        "services": {
+          "graphicDesign": "Graphic Design",
+          "webDevelopment": "Web Development",
+          "socialMedia": "Social Media Management",
+          "seo": "SEO Services",
+          "software": "Software Solutions",
+          "advertising": "Advertising Solutions"
+        },
+        "button": {
+          "send": "Send a Message",
+          "sending": "Sending..."
+        },
+        "success": {
+          "title": "Thank you for your message!",
+          "message": "We'll get back to you within 24 hours."
+        },
+        "privacy": {
+          "text": "By submitting this form, you agree to our",
+          "privacyPolicy": "Privacy Policy",
+          "and": "and",
+          "termsOfService": "Terms of Service",
+          "response": "We'll respond within 24 hours during business days."
+        }
+      },
+      "blogInsights": {
+        "title": {
+          "prefix": "Dive into",
+          "highlight": "Our Blogs",
+          "suffix": "for Insights that Matter"
+        },
+        "subtitle": "Explore our latest insights, industry trends, and expert tips to stay ahead in the digital landscape",
+        "category": "Category",
+        "date": "Date",
+        "discoverButton": "Discover Blogs"
+      }
+    }
+  },
+  "ServicesScrollStack": {
+    "title": "Our Digital Services",
+    "subtitle": "Scroll through our comprehensive range of digital solutions designed to elevate your business to new heights",
+    "scrollHint": "Use horizontal scroll or",
+    "scrollLeft": "Scroll left",
+    "scrollRight": "Scroll right",
+    "learnMore": "Learn More",
+    "ctaText": "Ready to transform your digital presence?",
+    "ctaButton": "Get Started Today",
+    "services": {
+      "graphicDesign": {
+        "title": "Graphic Design",
+        "description": "Create stunning visual identities that capture your brand essence and resonate with your target audience through innovative design solutions.",
+        "features": {
+          "1": "Brand Identity & Logo Design",
+          "2": "Print & Digital Marketing Materials",
+          "3": "UI/UX Design & Prototyping"
+        }
+      },
+      "webDevelopment": {
+        "title": "Web Development",
+        "description": "Build powerful, responsive websites and web applications using cutting-edge technologies and best practices for optimal performance.",
+        "features": {
+          "1": "Custom Website Development",
+          "2": "E-commerce Solutions",
+          "3": "Progressive Web Applications"
+        }
+      },
+      "socialMediaManagement": {
+        "title": "Social Media Management",
+        "description": "Enhance your online presence with strategic social media campaigns that engage audiences and drive meaningful business growth.",
+        "features": {
+          "1": "Content Strategy & Creation",
+          "2": "Community Management",
+          "3": "Social Media Advertising"
+        }
+      },
+      "seoServices": {
+        "title": "SEO Services",
+        "description": "Improve your search engine visibility and drive organic traffic with data-driven SEO strategies and optimization techniques.",
+        "features": {
+          "1": "Keyword Research & Analysis",
+          "2": "On-Page & Technical SEO",
+          "3": "Local SEO & Link Building"
+        }
+      },
+      "softwareSolutions": {
+        "title": "Software Solutions",
+        "description": "Develop custom software applications tailored to your specific business needs, streamlining processes and enhancing productivity.",
+        "features": {
+          "1": "Custom Software Development",
+          "2": "API Integration & Development",
+          "3": "Database Design & Management"
+        }
+      },
+      "advertisingSolutions": {
+        "title": "Advertising Solutions",
+        "description": "Maximize your reach and ROI with targeted advertising campaigns across multiple platforms and digital channels.",
+        "features": {
+          "1": "Google Ads & PPC Management",
+          "2": "Social Media Advertising",
+          "3": "Display & Retargeting Campaigns"
+        }
+      }
+    },
+    "whyUs": {
+      "title": "Why us ?",
+      "quickDelivery": "We deliver projects quickly—without compromising on quality.",
+      "internationalTeam": "An international, professional team works efficiently from remote locations.",
+      "flexiblePricing": "Flexible pricing—tailored to the scope of each project.",
+      "platform": {
+        "intro": "We use our own internal work platform:",
+        "name": "NED Swiss Software."
+      },
+      "cta": "Contact us"
+    }
+  },
+  "ServicesPage": {
+    "GraphicDesign": {
+      "title": "Graphic Design",
+      "subtitle": "Visual identity that makes an impact",
+      "overview": "Create compelling visual narratives that resonate with your audience",
+      "offerings": {
+        "branding": "Brand Identity & Logo Design",
+        "print": "Print Design & Marketing Materials",
+        "digital": "Digital Graphics & Social Media Assets",
+        "packaging": "Packaging & Product Design"
+      },
+      "process": {
+        "discovery": {
+          "title": "Discovery & Research",
+          "description": "Understanding your brand, audience, and objectives"
+        },
+        "concept": {
+          "title": "Concept Development",
+          "description": "Creating initial concepts and design directions"
+        },
+        "design": {
+          "title": "Design & Refinement",
+          "description": "Developing and refining the final design solution"
+        },
+        "delivery": {
+          "title": "Delivery & Support",
+          "description": "Final files delivery and ongoing design support"
+        }
+      }
+    }
+  },
+  "ServiceCards": {
+    "SocialMediaManagement": {
+      "title": "Social Media & Digital Marketing",
+      "subtitle": "Complete social media strategy, content creation, and community management services.",
+      "services": [
+        "Profile Setup & Branding",
+        "Content Planning & Scheduling",
+        "Custom Post & Story Designs"
+      ],
+      "buttonText": "From Concept to Success"
+    },
+    "WebDevelopment": {
+      "title": "Web Development & Design",
+      "subtitle": "Custom websites and web applications built with modern technologies and best practices.",
+      "services": [
+        "Responsive Web Design",
+        "E-commerce Solutions", 
+        "Performance Optimization"
+      ],
+      "buttonText": "Build Your Vision"
+    },
+    "GraphicDesign": {
+      "title": "Graphic Design & Branding",
+      "subtitle": "Visual identity solutions that make your brand stand out and connect with your audience.",
+      "services": [
+        "Logo Design & Brand Identity",
+        "Print & Digital Materials",
+        "Brand Guidelines & Style"
+      ],
+      "buttonText": "Create Your Brand"
+    },
+    "SEOServices": {
+      "title": "SEO & Digital Strategy",
+      "subtitle": "Comprehensive SEO services to improve your search rankings and online visibility.",
+      "services": [
+        "Long-form & Analytical Blog Articles",
+        "On-page SEO Optimization",
+        "Technical SEO & Performance Reports"
+      ],
+      "buttonText": "Boost Your Rankings"
+    },
+    "SoftwareSolutions": {
+      "title": "Software Solutions",
+      "subtitle": "Custom software development and digital tools to streamline your business operations.",
+      "services": [
+        "Custom Application Development",
+        "API Integration & Development",
+        "Database Design & Management"
+      ],
+      "buttonText": "Scale Your Business"
+    },
+    "AdvertisingSolutions": {
+      "title": "Advertising & Marketing",
+      "subtitle": "Strategic advertising campaigns that drive conversions and maximize your ROI.",
+      "services": [
+        "Google Ads & PPC Campaigns",
+        "Social Media Advertising",
+        "Campaign Analytics & Optimization"
+      ],
+      "buttonText": "Drive Results"
+    }
+  },
+  "AboutPage": {
+    "discoverVision": {
+      "title": {
+        "part1": "Discover the Vision Behind"
+      },
+      "story": {
+        "title": "Our Story",
+        "paragraph1": "NEDSWISS helps businesses across Europe grow by combining creativity and technology to build a strong digital presence.",
+        "paragraph2": "Our experienced team delivers design, development, and marketing solutions that look great and achieve real results.",
+        "paragraph3": "We've supported 50+ clients, from startups to enterprises, in transforming their digital presence and driving success."
+      },
+      "whyChoose": {
+        "title": "Why Choose Us?",
+        "item1": "Award-winning creative team",
+        "item2": "Proven track record of success",
+        "item3": "Dedicated account management", 
+        "item4": "Fast turnaround times"
+      }
+    },
+    "cards": {
+      "vision": {
+        "title": "Vision",
+        "description": "To be the leading digital agency that transforms businesses through innovative design and strategic thinking."
+      },
+      "mission": {
+        "title": "Mission",
+        "description": "To deliver exceptional digital experiences that drive growth and create lasting value for our clients."
+      },
+      "values": {
+        "title": "Values",
+        "description": "Creativity, integrity, excellence, and client success are at the heart of everything we do."
+      }
+    }
+  },
+  "BlogHero": {
+    "title": {
+      "prefix": "Your journey starts",
+      "highlight": "here"
+    },
+    "subtitle": "Discover insights, trends, and stories that inspire innovation and drive digital transformation.",
+    "cta": {
+      "explore": "Explore Articles",
+      "categories": "Browse Categories"
+    },
+    "scrollIndicator": "Scroll to explore"
+  },
+  "BlogGrid": {
+    "title": "Latest Insights",
+    "subtitle": "Stay updated with the latest trends, insights, and stories from our digital experts.",
+    "categories": {
+      "all": "All"
+    },
+    "error": {
+      "title": "Unable to load blogs",
+      "message": "There was an error loading the blog posts. Please try again later.",
+      "retry": "Try Again"
+    },
+    "empty": {
+      "title": "No articles found",
+      "message": "No blog posts are currently available.",
+      "viewAll": "View All Articles"
+    },
+    "loadMore": "Load More Articles"
+  },
+  "BlogCard": {
+    "readMore": "Read More"
+  },
+  "AllBlogs": {
+    "meta": {
+      "title": "Blog & Insights | NED Swiss",
+      "description": "Discover the latest insights, trends, and expert tips from NED Swiss. Stay ahead in the digital landscape with our comprehensive blog articles."
+    }
+  },
+  "BlogError": {
+    "title": "Something went wrong",
+    "message": "We encountered an error while loading the blog posts. Please try again.",
+    "retry": "Try Again",
+    "goHome": "Go to Homepage"
+  }
+} 
