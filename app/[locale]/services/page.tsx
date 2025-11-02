@@ -18,15 +18,3 @@ export async function generateMetadata({ params }: any): Promise<Metadata> {
     },
   };
 }
-'use client'
-import { ServicesTab } from '@/components/Services'
-
-const page = () => {
-  return (
-    <div>
-        <ServicesTab />
-    </div>
-  )
-}
-
-export default page
