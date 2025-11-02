@@ -1,11 +1,11 @@
 import type { Metadata } from "next";
+import AboutPage from "./AboutPage";
 
-const BASE = "https://www.ned-swiss.ch";
+const BASE = process.env.NEXT_PUBLIC_SITE_URL ?? "https://www.ned-swiss.ch";
 
-export async function generateMetadata({ params }: any): Promise<Metadata> {
-  const locale = params.locale;
+export async function generateMetadata({ params }: { params: { locale: string } }): Promise<Metadata> {
+  const { locale } = params;
   const self = `${BASE}/${locale}/about`;
-
   return {
     alternates: {
       canonical: self,
@@ -17,4 +17,8 @@ export async function generateMetadata({ params }: any): Promise<Metadata> {
       },
     },
   };
+}
+
+export default function Page() {
+  return <AboutPage />;
 }
